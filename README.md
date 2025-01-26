@@ -26,7 +26,7 @@
 
 Users can input numbers and operators by clicking the appropriate 3D buttons that simulate a traditional calculator keypad. The program allows for a maximum of 9 characters on the display, and if the input exceeds this limit, the text will scroll horizontally, ensuring that all entered data remains visible.
 
-![3D Calculator Screenshot](public/assets/3D_Calculator.jpg)
+![3D Calculator Screenshot](docs/3D_Calculator.jpg)
 
 ## Class and Method Responsibilities
 
